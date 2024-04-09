@@ -32,7 +32,7 @@ migrate_working_dir/
 /build/
 
 # Firebase yapılandırma dosyası
-firebase_options.dart
+/lib/firebase_options.dart
 
 # Firebase hizmet hesabı anahtar dosyası
 serviceAccountKey.json
